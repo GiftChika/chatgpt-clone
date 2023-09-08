@@ -1,5 +1,5 @@
 import React from 'react';
-import './App.css';
+
 import {useTypewriter, Cursor} from 'react-simple-typewriter';
 import img1 from './asset/openai.253x256.png';
 import background from './asset/machine.jpg';
@@ -58,3 +58,5 @@ function App() {
 }
 
 export default App;
+
+
